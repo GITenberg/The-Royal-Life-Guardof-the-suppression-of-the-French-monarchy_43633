@@ -1,0 +1,45 @@
+_repo: The-Royal-Life-Guardof-the-suppression-of-the-French-monarchy_43633
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Williams, Henry Llewellyn
+    aliases:
+    - Williams, Llew
+    - Mizen, Mat
+    - Mizzen, Matt
+    - Williams, H. L. (Henry Llewellyn)
+    birthdate: 1842
+    gutenberg_agent_id: '2433'
+    url: http://www.gutenberg.org/2009/agents/2433
+covers:
+- cover_type: archival
+  image_path: 43633-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas père, Alexandre
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2013-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Marie Antoinette, Queen, consort of Louis XVI, King of France, 1755-1793
+  -- Fiction'
+title: "The Royal Life Guard; or, the flight of the royal family.\r\nA historical\
+  \ romance of the suppression of the French monarchy"
+url: http://www.gutenberg.org/ebooks/43633

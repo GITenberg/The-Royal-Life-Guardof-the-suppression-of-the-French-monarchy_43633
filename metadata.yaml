@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43633#The-Royal-Life-Guardof-the-suppression-of-the-French-monarchy
 gutenberg_issued: '2013-09-03'
 gutenberg_type: Text
 identifiers:
